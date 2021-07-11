@@ -140,7 +140,7 @@ body{
 #header6{
     left: 158px;
 }
-@media (max-width: 400px){
+@media (max-width: 420px){
     .fondoTop{
         top: -500px;
         left: -700px;
@@ -149,8 +149,6 @@ body{
         bottom: -500px;
         right: -600px;
     }
-}
-@media (max-width: 360px){
     .tarjeta{
         width: 330px;
         top: 60px;
