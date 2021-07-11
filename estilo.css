@@ -153,4 +153,34 @@ body{
         width: 330px;
         top: 60px;
     }
+    .fotoTarjeta > img{
+        left: 110px;
+    }
+    #nombre{
+        left: 100px;
+    }
+    #edad{
+        left: 105px;
+    }
+    #ciudad{
+        left: 4px;
+    }
+    #header1{
+        left: 50px;
+    }
+    #header2{
+        left: 105px;
+    }
+    #header3{
+        left: 160px;
+    }
+    #header4{
+        left: 38px;
+    }
+    #header5{
+        left: 87px;
+    }
+    #header6{
+        left: 148px;
+    }
 }
