@@ -153,5 +153,6 @@ body{
 @media (max-width: 360px){
     .tarjeta{
         width: 330px;
+        top: 60px;
     }
 }
