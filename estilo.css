@@ -140,3 +140,18 @@ body{
 #header6{
     left: 158px;
 }
+@media (max-width: 400px){
+    .fondoTop{
+        top: -500px;
+        left: -700px;
+    }
+    .fondoBot{
+        bottom: -500px;
+        right: -600px;
+    }
+}
+@media (max-width: 360px){
+    .tarjeta{
+        width: 330px;
+    }
+}
